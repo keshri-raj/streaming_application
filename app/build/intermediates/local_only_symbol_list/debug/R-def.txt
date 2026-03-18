@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id connect_button
+id ip_address_text
+id play_button
+id player_view
+id server_ip_input
+id start_server_button
+layout activity_main
+string app_name
+style Theme.StreamingApp
